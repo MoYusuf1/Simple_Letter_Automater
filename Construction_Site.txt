@@ -1,0 +1,2 @@
+This flew over my head when I decided to upload this but this program only works with my Macbook's folder order.
+Let's just say this is a project is still a work in progress and in the future I will change it up to be system agnostic.
